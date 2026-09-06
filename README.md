@@ -4,6 +4,16 @@
 
 This public repository contains reusable engineering patterns derived from Qwilt-side NOC work without exposing production credentials, customer-sensitive evidence, internal endpoints, or proprietary runbook details.
 
+## Organization contribution verification
+
+This repository is a sanitized public presentation of work developed in the course of **Qwilt NOC engineering**.
+
+- Public contribution page: [Qwilt NOC contribution provenance](contributions/qwilt-noc.md)
+- Private Qwilt implementation source (authorized coworkers): https://gitlab.com/jamesd3/qnoc-operator-toolkit
+- Private Qwilt provenance record (authorized coworkers): https://gitlab.com/jamesd3/qnoc-operator-toolkit/-/blob/main/docs/CONTRIBUTIONS-QWILT.md
+- Wrapped operator-display implementation MR: https://gitlab.com/jamesd3/qnoc-operator-toolkit/-/merge_requests/2
+
+The private GitLab links provide the organization-context verification trail. This does not imply public endorsement by Qwilt.
 ## Qwilt NOC focus
 
 - wrapped operator cards;
