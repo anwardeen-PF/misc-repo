@@ -44,3 +44,10 @@ next safe action
 ## Safety
 
 These examples are intentionally generic. They do not include production hostnames, customer identifiers, secrets, internal API endpoints, or privileged execution paths.
+
+
+## Portfolio
+
+The broader engineering portfolio and case studies are published at:
+
+https://github.com/anwardeen-PF/Public-you-can-edit-
